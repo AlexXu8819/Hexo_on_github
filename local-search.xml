@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>For 7-14</title>
+    <link href="/Hexo_on_github/2024/07/14/For-7-14/"/>
+    <url>/Hexo_on_github/2024/07/14/For-7-14/</url>
+    
+    <content type="html"><![CDATA[<h1 id="好久没记日记了"><a href="#好久没记日记了" class="headerlink" title="好久没记日记了"></a>好久没记日记了</h1><p>最近自己都在干嘛呢？一周之前，我尝试重新捡起自然语言处理的课程设计，希望能够从其中学到些什么——现在看来，我没有坚持下去。课程设计一共四个任务，但是我只看了两个。并且两个效果都不是很好。准确率只有60%-70%左右，这样的模型，显然是不能够说是正确的。或许把res14，lap14-16这些数据都上。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>2024.7.7</title>
     <link href="/Hexo_on_github/2024/07/07/2024-7-7/"/>
     <url>/Hexo_on_github/2024/07/07/2024-7-7/</url>
